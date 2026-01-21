@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=20
+# løst, https://projecteuler.net/problem=20
 
 import math
 

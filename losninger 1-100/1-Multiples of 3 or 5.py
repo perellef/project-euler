@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=1
+# løst, https://projecteuler.net/problem=1
 
 s = 0
 for k in range(1,1000):

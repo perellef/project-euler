@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=20
+# løst, https://projecteuler.net/problem=20
 
 femtisifrede = [
     37107287533902102798797998220837590246510135740250,

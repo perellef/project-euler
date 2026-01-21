@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=2
+# løst, https://projecteuler.net/problem=2
 
 s = 0
 

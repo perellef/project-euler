@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=9
+# løst, https://projecteuler.net/problem=9
 
 def søk():
     for m in range(1,100):
