@@ -1,14 +1,14 @@
 # Project Euler
 
-Til sammen **13** oppgaver løst.
+Til sammen **22** oppgaver løst.
 
 Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101 holdt private.
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟩🟧🟩🟩🟨🟧🟨
 
 <details>
 	<summary>
-		🟩 <strong>5-10 %</strong> – løst 13
+		🟩 <strong>5-10 %</strong> – løst 16
 	</summary>
 	<table>
 			<tr>
@@ -96,28 +96,91 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 				<td><a href="losninger 1-100\25-1000-digit Fibonacci Number.py">🔍</a></td>
 			</tr>
 			<tr>
+				<td>67</td>
+				<td>
+					<a href="https://projecteuler.net/problem=67">Maximum Path Sum II</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\67-Maximum Path Sum II.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>79</td>
+				<td>
+					<a href="https://projecteuler.net/problem=79">Passcode Derivation</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\79-Passcode Derivation.py">🔍</a></td>
+			</tr>
+			<tr>
 				<td>54</td>
 				<td>
 					<a href="https://projecteuler.net/problem=54">Poker Hands</td>
 				<td>10%</td>
 				<td><a href="losninger 1-100\54-Poker Hands.py">🔍</a></td>
 			</tr>
+			<tr>
+				<td>81</td>
+				<td>
+					<a href="https://projecteuler.net/problem=81">Path Sum Two Ways</td>
+				<td>10%</td>
+				<td><a href="losninger 1-100\81-Path Sum Two Ways.py">🔍</a></td>
+			</tr>
 	</table>
 </details>
 
 <details>
 	<summary>
-		🟨 <strong>15-20 %</strong> – løst 0
+		🟨 <strong>15-20 %</strong> – løst 4
 	</summary>
 	<table>
+			<tr>
+				<td>62</td>
+				<td>
+					<a href="https://projecteuler.net/problem=62">Cubic Permutations</td>
+				<td>15%</td>
+				<td><a href="losninger 1-100\62-Cubic Permutations.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>85</td>
+				<td>
+					<a href="https://projecteuler.net/problem=85">Counting Rectangles</td>
+				<td>15%</td>
+				<td><a href="losninger 1-100\85-Counting Rectangles.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>61</td>
+				<td>
+					<a href="https://projecteuler.net/problem=61">Cyclical Figurate Numbers</td>
+				<td>20%</td>
+				<td><a href="losninger 1-100\61-Cyclical Figurate Numbers.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>82</td>
+				<td>
+					<a href="https://projecteuler.net/problem=82">Path Sum Three Ways</td>
+				<td>20%</td>
+				<td><a href="losninger 1-100\82-Path Sum Three Ways.py">🔍</a></td>
+			</tr>
 	</table>
 </details>
 
 <details>
 	<summary>
-		🟧 <strong>25-30 %</strong> – løst 0
+		🟧 <strong>25-30 %</strong> – løst 2
 	</summary>
 	<table>
+			<tr>
+				<td>68</td>
+				<td>
+					<a href="https://projecteuler.net/problem=68">Magic 5-gon Ring</td>
+				<td>25%</td>
+				<td><a href="losninger 1-100\68-Magic 5-gon Ring.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>83</td>
+				<td>
+					<a href="https://projecteuler.net/problem=83">Path Sum Four Ways</td>
+				<td>25%</td>
+				<td><a href="losninger 1-100\83-Path Sum Four Ways.py">🔍</a></td>
+			</tr>
 	</table>
 </details>
 
