@@ -1,6 +1,6 @@
 # Project Euler
 
-Tilsammen **13** oppgaver løst.
+Til sammen **13** oppgaver løst.
 
 Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101 holdt private.
 

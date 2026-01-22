@@ -24,7 +24,7 @@ løsningsfiler = {p.stem: p for p in Path("losninger 1-100").iterdir()}
 with open("README.md", "w", encoding="utf-8") as f:
     f.write("# Project Euler\n\n")
 
-    f.write(f"Tilsammen **{len(løsningsfiler)}** oppgaver løst.\n\n") 
+    f.write(f"Til sammen **{len(løsningsfiler)}** oppgaver løst.\n\n") 
     f.write(f"Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101 holdt private.\n\n") 
 
     prosentgruppert = defaultdict(list)
