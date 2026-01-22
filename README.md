@@ -1,14 +1,14 @@
 # Project Euler
 
-Tilsammen **10** oppgaver løst.
+Tilsammen **13** oppgaver løst.
 
 Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101 holdt private.
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <details>
 	<summary>
-		🟩 <strong>5-10 %</strong> – løst 10
+		🟩 <strong>5-10 %</strong> – løst 13
 	</summary>
 	<table>
 			<tr>
@@ -80,6 +80,27 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 					<a href="https://projecteuler.net/problem=20">Factorial Digit Sum</td>
 				<td>5%</td>
 				<td><a href="losninger 1-100\20-Factorial Digit Sum.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>22</td>
+				<td>
+					<a href="https://projecteuler.net/problem=22">Names Scores</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\22-Names Scores.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>25</td>
+				<td>
+					<a href="https://projecteuler.net/problem=25">1000-digit Fibonacci Number</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\25-1000-digit Fibonacci Number.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>54</td>
+				<td>
+					<a href="https://projecteuler.net/problem=54">Poker Hands</td>
+				<td>10%</td>
+				<td><a href="losninger 1-100\54-Poker Hands.py">🔍</a></td>
 			</tr>
 	</table>
 </details>

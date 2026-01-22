@@ -30,7 +30,7 @@ with open("README.md", "w", encoding="utf-8") as f:
     prosentgruppert = defaultdict(list)
 
     for løst in sorted(løsningsfiler, key=lambda x: int(x.split("-")[0])):
-        nr,_ = løst.split("-")
+        nr,_ = løst.split("-",1)
         f.write(emoji_til(oppgaveinfo[nr]["vanskelighetsgrad"])) 
 
         prosentgruppert[int(oppgaveinfo[nr]["vanskelighetsgrad"].removesuffix("%"))].append(løst)
@@ -46,7 +46,7 @@ with open("README.md", "w", encoding="utf-8") as f:
         f.write("\t<table>\n")
         for prosent in prosentgruppe:
             for løst in prosentgruppert[prosent]:
-                nr,tittel = løst.split("-")
+                nr,tittel = løst.split("-", 1)
                 f.write(f"\t\t\t<tr>\n") 
                 f.write(f"\t\t\t\t<td>{nr}</td>\n")
                 f.write(f'''\t\t\t\t<td>\n\t\t\t\t\t<a href="{PROBLEM_URL.replace('{nr}', nr)}">{tittel}</td>\n''')
