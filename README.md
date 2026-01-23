@@ -1,14 +1,14 @@
 # Project Euler
 
-Til sammen **22** oppgaver løst.
+Til sammen **26** oppgaver løst.
 
 Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101 holdt private.
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟩🟧🟩🟩🟨🟧🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟩🟩🟧🟩🟩🟨🟧🟨🟥
 
 <details>
 	<summary>
-		🟩 <strong>5-10 %</strong> – løst 16
+		🟩 <strong>5-10 %</strong> – løst 19
 	</summary>
 	<table>
 			<tr>
@@ -75,6 +75,13 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 				<td><a href="losninger 1-100\16-Power Digit Sum.py">🔍</a></td>
 			</tr>
 			<tr>
+				<td>18</td>
+				<td>
+					<a href="https://projecteuler.net/problem=18">Maximum Path Sum I</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\18-Maximum Path Sum I.py">🔍</a></td>
+			</tr>
+			<tr>
 				<td>20</td>
 				<td>
 					<a href="https://projecteuler.net/problem=20">Factorial Digit Sum</td>
@@ -94,6 +101,20 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 					<a href="https://projecteuler.net/problem=25">1000-digit Fibonacci Number</td>
 				<td>5%</td>
 				<td><a href="losninger 1-100\25-1000-digit Fibonacci Number.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>30</td>
+				<td>
+					<a href="https://projecteuler.net/problem=30">Digit Fifth Powers</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\30-Digit Fifth Powers.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>63</td>
+				<td>
+					<a href="https://projecteuler.net/problem=63">Powerful Digit Counts</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\63-Powerful Digit Counts.py">🔍</a></td>
 			</tr>
 			<tr>
 				<td>67</td>
@@ -186,9 +207,16 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 
 <details>
 	<summary>
-		🟥 <strong>35-40 %</strong> – løst 0
+		🟥 <strong>35-40 %</strong> – løst 1
 	</summary>
 	<table>
+			<tr>
+				<td>98</td>
+				<td>
+					<a href="https://projecteuler.net/problem=98">Anagramic Squares</td>
+				<td>35%</td>
+				<td><a href="losninger 1-100\98-Anagramic Squares.py">🔍</a></td>
+			</tr>
 	</table>
 </details>
 
