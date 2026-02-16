@@ -1,5 +1,3 @@
-# løst, https://projecteuler.net/problem=4
-
 ps = set()
 for f1 in range(100,1000):
     for f2 in range(100,1000):

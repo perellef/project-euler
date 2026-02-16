@@ -1,5 +1,3 @@
-# løst, https://projecteuler.net/problem=2
-
 i = 2
 fn1 = 1
 fn2 = 1

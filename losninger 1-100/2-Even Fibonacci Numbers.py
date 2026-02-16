@@ -1,5 +1,3 @@
-# løst, https://projecteuler.net/problem=2
-
 s = 0
 
 fn1 = 1
