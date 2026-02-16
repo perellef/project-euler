@@ -1,14 +1,14 @@
 # Project Euler
 
-Til sammen **22** oppgaver løst.
+Til sammen **41** oppgaver løst.
 
 Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101 holdt private.
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟩🟧🟩🟩🟨🟧🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟩🟩🟧🟧🟧🟩🟩🟨🟧🟨🟥🟥🟧🟥
 
 <details>
 	<summary>
-		🟩 <strong>5-10 %</strong> – løst 16
+		🟩 <strong>5-10 %</strong> – løst 29
 	</summary>
 	<table>
 			<tr>
@@ -26,6 +26,13 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 				<td><a href="losninger 1-100\2-Even Fibonacci Numbers.py">🔍</a></td>
 			</tr>
 			<tr>
+				<td>3</td>
+				<td>
+					<a href="https://projecteuler.net/problem=3">Larges Prime Factor</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\3-Larges Prime Factor.py">🔍</a></td>
+			</tr>
+			<tr>
 				<td>4</td>
 				<td>
 					<a href="https://projecteuler.net/problem=4">Largest Palindrome Product</td>
@@ -38,6 +45,13 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 					<a href="https://projecteuler.net/problem=6">Sum Square Difference</td>
 				<td>5%</td>
 				<td><a href="losninger 1-100\6-Sum Square Difference.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>
+					<a href="https://projecteuler.net/problem=7">10 001st Prime</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\7-10 001st Prime.py">🔍</a></td>
 			</tr>
 			<tr>
 				<td>8</td>
@@ -75,6 +89,13 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 				<td><a href="losninger 1-100\16-Power Digit Sum.py">🔍</a></td>
 			</tr>
 			<tr>
+				<td>18</td>
+				<td>
+					<a href="https://projecteuler.net/problem=18">Maximum Path Sum I</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\18-Maximum Path Sum I.py">🔍</a></td>
+			</tr>
+			<tr>
 				<td>20</td>
 				<td>
 					<a href="https://projecteuler.net/problem=20">Factorial Digit Sum</td>
@@ -89,11 +110,81 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 				<td><a href="losninger 1-100\22-Names Scores.py">🔍</a></td>
 			</tr>
 			<tr>
+				<td>24</td>
+				<td>
+					<a href="https://projecteuler.net/problem=24">Lexicographic Permutations</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\24-Lexicographic Permutations.py">🔍</a></td>
+			</tr>
+			<tr>
 				<td>25</td>
 				<td>
 					<a href="https://projecteuler.net/problem=25">1000-digit Fibonacci Number</td>
 				<td>5%</td>
 				<td><a href="losninger 1-100\25-1000-digit Fibonacci Number.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>28</td>
+				<td>
+					<a href="https://projecteuler.net/problem=28">Number Spiral Diagonals</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\28-Number Spiral Diagonals.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>29</td>
+				<td>
+					<a href="https://projecteuler.net/problem=29">Distinct Powers</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\29-Distinct Powers.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>30</td>
+				<td>
+					<a href="https://projecteuler.net/problem=30">Digit Fifth Powers</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\30-Digit Fifth Powers.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>31</td>
+				<td>
+					<a href="https://projecteuler.net/problem=31">Coin Sums</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\31-Coin Sums.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>32</td>
+				<td>
+					<a href="https://projecteuler.net/problem=32">Pandigital Products</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\32-Pandigital Products.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>35</td>
+				<td>
+					<a href="https://projecteuler.net/problem=35">Circular Primes</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\35-Circular Primes.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>41</td>
+				<td>
+					<a href="https://projecteuler.net/problem=41">Pandigital Prime</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\41-Pandigital Prime.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>49</td>
+				<td>
+					<a href="https://projecteuler.net/problem=49">Prime Permutations</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\49-Prime Permutations.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>63</td>
+				<td>
+					<a href="https://projecteuler.net/problem=63">Powerful Digit Counts</td>
+				<td>5%</td>
+				<td><a href="losninger 1-100\63-Powerful Digit Counts.py">🔍</a></td>
 			</tr>
 			<tr>
 				<td>67</td>
@@ -164,7 +255,7 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 
 <details>
 	<summary>
-		🟧 <strong>25-30 %</strong> – løst 2
+		🟧 <strong>25-30 %</strong> – løst 5
 	</summary>
 	<table>
 			<tr>
@@ -175,20 +266,62 @@ Av hensyn til Project Eulers retningslinjer er løsninger fra og med problem 101
 				<td><a href="losninger 1-100\68-Magic 5-gon Ring.py">🔍</a></td>
 			</tr>
 			<tr>
+				<td>75</td>
+				<td>
+					<a href="https://projecteuler.net/problem=75">Singular Integer Right Triangles</td>
+				<td>25%</td>
+				<td><a href="losninger 1-100\75-Singular Integer Right Triangles.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>77</td>
+				<td>
+					<a href="https://projecteuler.net/problem=77">Prime Summations</td>
+				<td>25%</td>
+				<td><a href="losninger 1-100\77-Prime Summations.py">🔍</a></td>
+			</tr>
+			<tr>
 				<td>83</td>
 				<td>
 					<a href="https://projecteuler.net/problem=83">Path Sum Four Ways</td>
 				<td>25%</td>
 				<td><a href="losninger 1-100\83-Path Sum Four Ways.py">🔍</a></td>
 			</tr>
+			<tr>
+				<td>95</td>
+				<td>
+					<a href="https://projecteuler.net/problem=95">Amicable Chains</td>
+				<td>30%</td>
+				<td><a href="losninger 1-100\95-Amicable Chains.py">🔍</a></td>
+			</tr>
 	</table>
 </details>
 
 <details>
 	<summary>
-		🟥 <strong>35-40 %</strong> – løst 0
+		🟥 <strong>35-40 %</strong> – løst 3
 	</summary>
 	<table>
+			<tr>
+				<td>94</td>
+				<td>
+					<a href="https://projecteuler.net/problem=94">Almost Equilateral Triangles</td>
+				<td>35%</td>
+				<td><a href="losninger 1-100\94-Almost Equilateral Triangles.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>98</td>
+				<td>
+					<a href="https://projecteuler.net/problem=98">Anagramic Squares</td>
+				<td>35%</td>
+				<td><a href="losninger 1-100\98-Anagramic Squares.py">🔍</a></td>
+			</tr>
+			<tr>
+				<td>88</td>
+				<td>
+					<a href="https://projecteuler.net/problem=88">Product-sum Numbers</td>
+				<td>40%</td>
+				<td><a href="losninger 1-100\88-Product-sum Numbers.py">🔍</a></td>
+			</tr>
 	</table>
 </details>
 
